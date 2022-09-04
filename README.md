@@ -2,7 +2,7 @@
 
 Network Science Course Submission
 
-This report was presented in one of the satellite sessions of **Network Science Education Symposium 2022** last July.
+This report was presented in one of the [satellite sessions](https://sites.google.com/view/netscied2022/) of **Network Science Education Symposium 2022** last July.
 
 See full report [HERE](https://github.com/mbdelaresma/coauthorship-network/blob/main/FinalReport.pdf)
 
