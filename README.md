@@ -2,6 +2,8 @@
 
 Network Science Course Submission
 
+This report was presented in the **Network Science Education Symposium 2022**.
+
 See full report [HERE](https://github.com/mbdelaresma/coauthorship-network/blob/main/FinalReport.pdf)
 
 ![image](https://user-images.githubusercontent.com/71246479/188304739-540c56f3-8949-43ec-9bc4-e0374952c91a.png)
