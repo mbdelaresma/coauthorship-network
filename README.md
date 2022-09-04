@@ -17,7 +17,9 @@ We also performed exploratory network analysis to identify critical entities in 
 
 A projected inter-university author network was also formed using topics as connections. We extracted notable authors and identified communities that can serve as working groups for identified topics.
 
-![image](https://user-images.githubusercontent.com/71246479/188304770-2fa1e068-be32-4dfc-a008-043b9dc84e4c.png)
+![image](https://user-images.githubusercontent.com/71246479/188304809-e8dfcb21-bb11-4da8-842a-d0314cae58f4.png)
+
+![figure15](https://user-images.githubusercontent.com/71246479/188304861-d0a7a037-454e-43bd-a519-fce5ae158829.png)
 
 # Contributors
 
