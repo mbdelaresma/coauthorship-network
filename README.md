@@ -4,6 +4,8 @@ Network Science Course Submission
 
 See full report [HERE](https://github.com/mbdelaresma/coauthorship-network/blob/main/FinalReport.pdf)
 
+![image](https://user-images.githubusercontent.com/71246479/188304739-540c56f3-8949-43ec-9bc4-e0374952c91a.png)
+
 # Executive Summary
 
 Here, we present insights into the existing collaboration dynamics of state universities and colleges (SUC) in the Philippines. Ultimately, the objective is to
@@ -14,6 +16,8 @@ In our approach, we identified three progressive profile sets of SUC co-authorsh
 We also performed exploratory network analysis to identify critical entities in the networks, exploring various centrality measures focused on insights-extraction. As part of the descriptive analysis, we also extracted network communities that may be significant in helping funding agencies identify relevant R&D programs for various SUCs.
 
 A projected inter-university author network was also formed using topics as connections. We extracted notable authors and identified communities that can serve as working groups for identified topics.
+
+![image](https://user-images.githubusercontent.com/71246479/188304770-2fa1e068-be32-4dfc-a008-043b9dc84e4c.png)
 
 # Contributors
 
